@@ -6,9 +6,9 @@ navbar:
     - text: "University Assignments"  
       href: assignments.html
       menu:
-        - text: "Project X"
+        - text: "Essay: Minorities in the Media"
           href: assignment1.html
-        - text: "Project Y"
+        - text: "Paper: Employer Branding für die Sozialbranche"
           href: assignment2.html
     - text: "Projects"
       href: projects.html
