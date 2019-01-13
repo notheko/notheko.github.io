@@ -2,4 +2,7 @@
 title: "Paper on x"
 ---
 
-My project
+My project on ... in ...
+
+Here [pdf](Assignment Minorities in the Media - Nora Theresa Koch.pdf)
+

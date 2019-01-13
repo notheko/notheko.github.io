@@ -3,12 +3,12 @@ output_dir: "."
 navbar:
   title: "Nora Theresa Koch"
   left:
-    - text: "Assignments"  
+    - text: "University Assignments"  
       href: assignments.html
       menu:
-        - text: "Assignment 1"
+        - text: "Project X"
           href: assignment1.html
-        - text: "Assignment 2"
+        - text: "Project Y"
           href: assignment2.html
     - text: "Projects"
       href: projects.html
