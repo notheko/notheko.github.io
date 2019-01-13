@@ -8,6 +8,8 @@ navbar:
       menu:
         - text: "Assignment 1"
           href: assignment1.html
+        - text: "Assignment 2"
+          href: assignment2.html
     - text: "Projects"
       href: projects.html
       menu:
