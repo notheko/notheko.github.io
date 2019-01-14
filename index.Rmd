@@ -3,16 +3,42 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/Bewerbungsbild1.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+<img src="images/Bewerbungsbild1.jpg" style="width:20%; border:10px solid; margin-right: 20px" align="left">
+
+Mein Name ist Nora Koch, ich bin Wirtschaftspsychologin mit Fokus auf Personalmanagement in Heide, Holstein.
+Während meines Auslandsjahrs nach der Schule habe ich mich entschieden, mein Interesse an psychologischen Themen mit einer guten Dosis Betriebswirtschaft zu kombinieren, was mich zu eben diesem Studiengang - [Wirtschaftspsychologie](https://www.fh-westkueste.de/wipsy/) - nach Heide geführt hat.  
+
+Obwohl ich die theoretischen Aspekte zum Thema Statistik, (Sozial)Psychologie, und Verhlaten interessant fand, habe ich von Anfang an eine Leidenschaft für die praktische Anwendung dieser Theorien entdeckt. Somit liegt mein Fokus heute auf Personalentwicklung, Change Management, Seminarkonzeption und Coaching. In Projekten der Universität, als auch in Praktika habe ich Erfahrungen in ebendiesen Feldern sammeln können. 
+
+Auf dieser Website finden Sie eine Auswahl an Universitäts-Projekten, von Essays über Hausarbeiten hin zu Fallstudien, und privaten Projekte.
+<style>
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
+</style>
+<div class = "blue">
+Falls Sie mehr erfahren wollen, können Sie [hier](Lebenslauf Nora Theresa Koch.pdf) meinen Lebenslauf inklusive Kontatkdaten finden. 
+</div>
+
+
+***
+
+
 
 My name is Nora Koch, I am an Organizational Psychologist with a focus on Human Ressource Management, currently based in Heide, Holstein.
 
-Taking a year off to travel after school, I decided I would like to combine my passion for psychology with a healthy dose of business, which led me to study exactly that - [Business Psychology](https://www.fh-westkueste.de/wipsy/) - in the small town of Heide, North Germany.
+Taking a year off to travel after school, I decided I would like to combine my interest in psychology with a healthy dose of business, which led me to study exactly that - [Business Psychology](https://www.fh-westkueste.de/wipsy/) - in the small town of Heide, North Germany.
 
 While I enjoyed the theoretical insights into statistics, (social)psychology and behaviour, I quickly realized that my passion lies in the practical use of psychology in every-day work issues, such as workshops, seminars and change management.Projects in university, as well as internships gave me the option of gaining work experience in those fields.
-
 You can find a selection of my projects on this webside, ranging from essays and papers, to seminars. 
+
+<style>
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
+</style>
+<div class = "blue">
 If you're interested in learning more, you can download a copy of my resume [here](Lebenslauf Nora Theresa Koch.pdf).
+</div>
+
+
+
 
 
 

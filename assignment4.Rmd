@@ -5,7 +5,7 @@ title: "Realistic Job Preview im modernen Recruitingprozess"
 
 Die Forschung zum Thema Realistische Tätigkeitsvorschau geht auf den Amerikaner Joseph Weitz in den 1950er Jahren zurück, und wurde in den darauffolgen-den 50 Jahren unter anderem von Wanous, Reilly et al., Dugoni und Ilgen, und Phillips vo-rangetrieben. Dominierender Ansatzpunkt war zu der Zeit die Frage, ob und wie ein Realistic Job Preview im Einzelnen die Leistung des Kandidaten, und langfristig die Fluktuation im Unternehmen beeinflusst. Heutzutage beschäftigen sich im Hinblick auf den Fachkräftemangel viele Unternehmen mit Personalmarketingmaßnahmen, Mitarbeiterbindung, der Arbeitgeberattraktivität, und der Candidate Experience, um die Fluktuation im Unternehmen zu minimieren. Die Realistic Job Preview könnte dabei ein sinnvolles Tool darstellen.
 
-Diese Arbeit untersucht, zu welchem Zeitpunkt und durch welches Medium die Realistic Job Preview im modernen Rekrutierungsprozess implementiert werden sollte, um die Vorteile für das Unternehmen zu maximieren. Die Ergebnisse finden Sie [hier](Hausarbeit Nora Koch Realistic Job Preview - Stand 12.01.2019.pdf) als PDF zum Download. 
+**Diese Arbeit untersucht, zu welchem Zeitpunkt und durch welches Medium die Realistic Job Preview im modernen Rekrutierungsprozess implementiert werden sollte, um die Vorteile für das Unternehmen zu maximieren.** Die Ergebnisse finden Sie **[hier](Hausarbeit Nora Koch Realistic Job Preview - Stand 12.01.2019.pdf)** als PDF zum Download.
 
 
 <img src="images/RJPInhalt.PNG" style="width:60%; border:10px solid; margin-right: 20px" align="left">

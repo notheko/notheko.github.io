@@ -6,6 +6,6 @@ In Zeiten, in denen die Begriffe Fachkräftemangel und War for Talent deutsche U
 
 Dazu stellt sich die Frage: Welche Möglichkeiten gibt es, die Attraktivität als Arbeitgeber zu steigern? Wie kann ein Unternehmen eine Arbeitgebermarke entwickeln um so auf dem Arbeitsmarkthervorstechen? **Ist es möglich das Konzept der Arbeitgebermarke auf eine komplette Branche zu übertragen?**
 
-Meine Arbeit zur Implementierung einer Branchenmarke in der Sozialbranche finden Sie [hier](Vom Employer Branding zum Branchen Branding .pdf).
+Meine Arbeit zur Implementierung einer Branchenmarke in der Sozialbranche finden Sie **[hier](Vom Employer Branding zum Branchen Branding .pdf).**
 
 <img src="images/EBInhalt.PNG" style="width:60%; border:10px solid; margin-right: 20px" align="left">
