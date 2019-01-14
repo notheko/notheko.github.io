@@ -8,9 +8,11 @@ navbar:
       menu:
         - text: "Essay: Minorities in the Media"
           href: assignment1.html
-        - text: "Paper: Employer Branding für die Sozialbranche"
+        - text: "Hausarbeit: Employer Branding für die Sozialbranche"
           href: assignment2.html
-        - text: "Paper: Betriebliches Gesundheitsmanagement in der Logistikbranche"
+        - text: "Hausarbeit: Realistic Job Preview im modernen Recruitingprozess"
+          href: assignment4.html
+        - text: "Fallstudie: Betriebliches Gesundheitsmanagement in der Logistikbranche"
           href: assignment3.html
     - text: "Personal Projects"
       href: projects.html

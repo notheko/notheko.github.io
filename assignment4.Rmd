@@ -1,0 +1,8 @@
+---
+title: "Paper: Realistic Job Preview im modernen Recruitingprozess"
+---
+
+A recent [paper](Hausarbeit Nora Koch Realistic Job Preview - Stand 12.01.2019.pdf) about using a realistic job preview in the recruiting process. 
+
+
+<img src="images/RJPInhalt.PNG" style="width:60%; border:10px solid; margin-right: 20px" align="left">
