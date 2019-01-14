@@ -10,11 +10,11 @@ navbar:
           href: assignment1.html
         - text: "Paper: Employer Branding für die Sozialbranche"
           href: assignment2.html
-    - text: "Projects"
+        - text: "Paper: Betriebliches Gesundheitsmanagement in der Logistikbranche"
+          href: assignment3.html
+    - text: "Personal Projects"
       href: projects.html
       menu:
-        - text: "Minorities in the Media"
-          href: Assignment Minorities in the Media - Nora Theresa Koch.pdf
     - text: "CV"
       href: Lebenslauf Nora Theresa Koch.pdf
       
@@ -22,7 +22,7 @@ navbar:
     - icon: fa-envelope fa-lg
       href: contact.html
     - icon: fa-linkedin fa-lg
-      href: https://www.linkedin.com/in/alexander-j-ryan/
+      href: https://www.linkedin.com/in/nora-theresa-koch
 output:
   html_document:
     theme: paper
