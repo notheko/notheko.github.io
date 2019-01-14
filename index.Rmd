@@ -5,12 +5,14 @@
 
 <img src="images/Bewerbungsbild1.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
-My name is Nora Koch, I am a Business Psychologist (B.A.) with a focus on Human Ressource Management. 
-After taking a year off between school and university I decided I would like to combine my passion for psychology with a healthy dose of business, which led me to study exactly that in the small town of [Heide, North Germany] (https://www.fh-westkueste.de/wipsy/).
+My name is Nora Koch, I am an Organizational Psychologist with a focus on Human Ressource Management, currently based in Heide, Holstein.
 
-I enjoy working with different people on individual tasks, hence my passion for HR Development, especiall trainings and workshops. 
+After taking a year off between school and university I decided I would like to combine my passion for psychology with a healthy dose of business, which led me to study exactly that - [Business Psychology](https://www.fh-westkueste.de/wipsy/) - in the small town of Heide, North Germany.
+
+While I enjoyed the theoretical insights into statistics, (social)psychology and behaviour, I quickly realized that my passion lies in the practical use of psychology in every-day work issues, such as workshops, seminars and change management.
+
+You can find a selection of my projects on this webside, ranging from essays and papers, to seminars we designed. 
+If you're interested in learning more, you can download a copy of my resume [here](Lebenslauf Nora Theresa Koch.pdf)
 
 
 
-
-You can find a copy of my resume [here](Lebenslauf Nora Theresa Koch.pdf)
