@@ -16,9 +16,8 @@ navbar:
           href: assignment3.html
     - text: "Personal Projects"
       href: projects.html
-      menu:
     - text: "CV"
-      href: Lebenslauf Nora Theresa Koch.pdf
+      href: mycv.html
       
   right:
     - icon: fa-envelope fa-lg

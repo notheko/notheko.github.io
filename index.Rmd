@@ -15,7 +15,7 @@ Auf dieser Website finden Sie eine Auswahl an Universitäts-Projekten, von Essay
 div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 </style>
 <div class = "blue">
-Falls Sie mehr erfahren wollen, können Sie [hier](Lebenslauf Nora Theresa Koch.pdf) meinen Lebenslauf inklusive Kontatkdaten finden. 
+Falls Sie mehr erfahren wollen, können Sie [hier](Lebenslauf dt.pdf) meinen Lebenslauf inklusive Kontatkdaten finden. 
 </div>
 
 
@@ -34,7 +34,7 @@ You can find a selection of my projects on this webside, ranging from essays and
 div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 </style>
 <div class = "blue">
-If you're interested in learning more, you can download a copy of my resume [here](Lebenslauf Nora Theresa Koch.pdf).
+If you're interested in learning more, you can download a copy of my resume [here](CV engl.pdf).
 </div>
 
 
