@@ -14,6 +14,8 @@ navbar:
           href: assignment4.html
         - text: "Fallstudie: Betriebliches Gesundheitsmanagement in der Logistikbranche"
           href: assignment3.html
+        - text: "Projekt: Kritische Betrachtung von Forschungsstudien"
+          href: assignment5.html
     - text: "Personal Projects"
       href: projects.html
     - text: "CV"
