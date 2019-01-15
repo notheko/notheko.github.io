@@ -3,21 +3,27 @@ output_dir: "."
 navbar:
   title: "Nora Theresa Koch"
   left:
-    - text: "University Assignments"  
+    - text: "University Papers"  
       href: assignments.html
       menu:
-        - text: "Essay: Minorities in the Media"
+        - text: "Minorities in the Media"
           href: assignment1.html
-        - text: "Hausarbeit: Employer Branding für die Sozialbranche"
+        - text: "Employer Branding für die Sozialbranche"
           href: assignment2.html
-        - text: "Hausarbeit: Realistic Job Preview im modernen Recruitingprozess"
+        - text: "Realistic Job Preview im modernen Recruitingprozess"
           href: assignment4.html
-        - text: "Fallstudie: Betriebliches Gesundheitsmanagement in der Logistikbranche"
+        - text: "Betriebliches Gesundheitsmanagement in der Logistikbranche"
           href: assignment3.html
-        - text: "Projekt: Kritische Betrachtung von Forschungsstudien"
+        - text: "Kreativität und Gesundheit im Arbeitsprozess: Bestandsaufnahme, Intervention und Evaluation"
           href: assignment5.html
-    - text: "Personal Projects"
+
+    - text: "University Projects"
       href: projects.html
+      menu:
+        - text: "Fallstudienprojekt: Mobilitätsstudie zur Berufswahl von Jugendlichen"
+          href: assignment6.html
+        - text: "Projekt 2"
+          href: assignment7.html
     - text: "CV"
       href: mycv.html
       
