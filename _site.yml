@@ -20,6 +20,8 @@ navbar:
     - text: "University Projects"
       href: projects.html
       menu:
+        - text: "Trainingskonzept Stressmanagement"
+          href: assignment8.html
         - text: "Fallstudienprojekt: Mobilitätsstudie zur Berufswahl von Jugendlichen"
           href: assignment6.html
         - text: "Projekt 2"

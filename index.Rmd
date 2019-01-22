@@ -15,7 +15,7 @@ Auf dieser Website finden Sie eine Auswahl an Universitäts-Projekten, von Essay
 div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 </style>
 <div class = "blue">
-Falls Sie mehr erfahren wollen, können Sie [hier](Lebenslauf dt.pdf) meinen Lebenslauf inklusive Kontatkdaten finden. 
+Falls Sie mehr erfahren wollen, können Sie [hier](Lebenslauf dt.pdf) meinen Lebenslauf inklusive Kontaktdaten finden. 
 </div>
 
 
